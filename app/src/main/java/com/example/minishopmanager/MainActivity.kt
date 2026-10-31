@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
             Toast.makeText(
                 this,
-                "Bonjour Asma Ayari !",
+                "Bonjour sabrine ouislaiti  !",
                 Toast.LENGTH_SHORT
             ).show()
 
